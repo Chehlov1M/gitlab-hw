@@ -17,3 +17,14 @@
 
 ![Логи задания test-pipeline](pipeline-log.png)
 *Вывод команд echo, uname -a, whoami.*
+
+Pipelines "gitlab-ci.yml".
+
+test-docker:
+  tags:
+    - docker
+  script:
+    - echo "Running in Docker container!"
+    - docker --version
+    - uname -a
+    - whoami
