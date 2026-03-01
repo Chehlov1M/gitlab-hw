@@ -2,7 +2,7 @@
 # Чехлов Михаил
 
 ## Задание 1
-![Страница Settings → CI/CD → Runners](screenshots/runner-settings.png)
+![Страница Settings → CI/CD → Runners](Снимок экрана от 2026-02-28 14-16-20.png)
 *Статус раннера — active (зелёная точка), теги docker, ubuntu.*
 
 ## Задание 2
