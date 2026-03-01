@@ -14,3 +14,6 @@
 
 ![Вывод команды gitlab-runner list. status, git status](gitlab-runner-status-and-list-screenshot.png)
 *Раннер зарегистрирован с ID #2 (2bxg3Mjny).*
+
+![Логи задания test-pipeline]()
+*Вывод команд echo, uname -a, whoami.*
