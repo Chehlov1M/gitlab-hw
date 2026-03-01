@@ -12,5 +12,5 @@
 ![Страница Settings → CI/CD → Runners](gitlab-runner-status-and-tags-gitlab-hw.png)
 *Статус раннера — active (зелёная точка), теги docker, ubuntu.*
 
-![Вывод команды gitlab-runner list. status, git status](runner-list.png)
+![Вывод команды gitlab-runner list. status, git status](gitlab-runner-status-and-list-screenshot.png)
 *Раннер зарегистрирован с ID #2 (2bxg3Mjny).*
